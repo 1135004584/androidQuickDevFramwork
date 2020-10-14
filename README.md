@@ -55,6 +55,12 @@
 		- entity
 > 后面有时间会整理出一个demo工程，使用mvvm开发模式
 
+# 基本的多模块项目
+- lib-annotation
+- lib-compiler
+- lib-api
+- app-sample
+
 # 多模块项目
 - lib-router-module
 - lib-core-module
