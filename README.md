@@ -29,5 +29,7 @@
 	- JsBridge
 - 沉浸式状态栏:
 	- ImmersionBar
+- 消息传递
+	- EventBus
 	
 > 后面有时间会整理出一个demo工程，使用mvvm开发模式
