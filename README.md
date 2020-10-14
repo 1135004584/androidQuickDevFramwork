@@ -36,7 +36,7 @@
 - 其他
 	- fragmentargs 轻松的为fragment添加参数信息，并提供创建方法。
 	- ParcelableGenerator 可实现自动将任意对象转换为Parcelable类型，方便对象传输。
-
+	- auto-service google的一个帮助编写编译时注解的库
 	
 # 目录结构
 - api
