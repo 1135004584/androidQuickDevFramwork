@@ -31,5 +31,21 @@
 	- ImmersionBar
 - 消息传递
 	- EventBus
-	
+
+
+# 目录结构
+- api
+- constant
+- utils
+- modules
+- entity
+- application
+- http
+	- test
+		- api
+		- ui
+			- fragment
+			- activity
+		- viewmodel
+		- entity
 > 后面有时间会整理出一个demo工程，使用mvvm开发模式
