@@ -27,5 +27,7 @@
 	- StickHeadScrollView
 - web混合开发:
 	- JsBridge
+- 沉浸式状态栏:
+	- ImmersionBar
 	
 > 后面有时间会整理出一个demo工程，使用mvvm开发模式
