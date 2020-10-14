@@ -18,7 +18,7 @@
 - 图片选择:
 	- takephoto_library
 - sql数据库ROM框架:
-	- sugar
+	- sugar || greendao
 - fragment管理:
 	- Fragmentation
 - 下拉刷新:
