@@ -56,10 +56,10 @@
 > 后面有时间会整理出一个demo工程，使用mvvm开发模式
 
 # 多模块项目
-	- lib-router-module
-	- lib-core-module
-	- lib-base-module
-	- app-home-module
-	- app-login-module
-	- app-gesture-module
-	- app-function-module
+- lib-router-module
+- lib-core-module
+- lib-base-module
+- app-home-module
+- app-login-module
+- app-gesture-module
+- app-function-module
