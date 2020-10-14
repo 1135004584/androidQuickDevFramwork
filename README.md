@@ -31,7 +31,8 @@
 	- ImmersionBar
 - 消息传递
 	- EventBus
-
+- 路由跳转
+	- ARouter
 
 # 目录结构
 - api
