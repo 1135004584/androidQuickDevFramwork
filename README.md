@@ -69,3 +69,8 @@
 - app-login-module
 - app-gesture-module
 - app-function-module
+# 插件式开发
+> 一些复杂的项目可能会用到插件式开发
+> 比如一些集团用的APP，可能有很多个系统比如10个APP，并且是多租户的，一般为了方便使用，会采用插件式开发APP，进入APP后选择对应的系统下载对应的插件包来加载。
+> 例子: 淘宝app
+- Atlas 插件式APP开发框架
